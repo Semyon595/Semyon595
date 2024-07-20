@@ -28,7 +28,7 @@
 ## ⏳ Время изучения Python
 
 Изучаю Python:
-![15%](https://progress-bar.dev/15/?title=LVL1)
+![33%](https://progress-bar.dev/33/?title=LVL1)
 ![0%](https://progress-bar.dev/0/?title=LVL2)
 ![0%](https://progress-bar.dev/0/?title=LVL3)
 
