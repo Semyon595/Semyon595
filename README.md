@@ -28,7 +28,7 @@
 | Награда | Описание |
 |------------|-----------|
 | <img src="https://i.ibb.co/rwFWSrv/image-3.png" alt="1" width="200"/> | Я покорил turtle |
-| <img src="https://github.com/Student123321123/Student123321123/assets/174334016/629c1793-0a93-4ac8-a6ac-9635547b9839" alt="2" width="200"/> | Я справился с проектами и набрал более 1310 баллов |
+| <img src="https://github.com/Student123321123/Student123321123/assets/174334016/629c1793-0a93-4ac8-a6ac-9635547b9839" alt="2" width="200"/> | Я справился с проектами и набрал 1518 баллов |
 
 ## ⏳ Время изучения Python
 
