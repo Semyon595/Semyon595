@@ -7,6 +7,10 @@
 |Играть в...|Заниматься...|
 |--------|--------|
 |Brawl Stars|Собирать Lego|
+|Minecraft||
+|Nulls Brawl||
+|Pixel Gun||
+|Soul Knight||
 ## 📂 Мои проекты
 
 | Проект | Ссылка |
