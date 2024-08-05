@@ -7,8 +7,8 @@
 |Играть в...|Заниматься...|
 |--------|--------|
 |Brawl Stars|Собирать Lego|
-|Minecraft||
-|Nulls Brawl||
+|Minecraft|Кататься на велосипеде|
+|Nulls Brawl|Создавать хоть и маленькие но проекты в Kodlend Hub|
 |Pixel Gun||
 |Soul Knight||
 ## 📂 Мои проекты
