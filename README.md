@@ -9,7 +9,7 @@
 |Brawl Stars|Собирать Lego|
 |Minecraft|Кататься на велосипеде|
 |Nulls Brawl|Создавать хоть и маленькие но проекты в Kodlend Hub|
-|Pixel Gun||
+|Pixel Gun|Гулять|
 |Soul Knight||
 ## 📂 Мои проекты
 
