@@ -32,7 +32,7 @@
 ## 🏆 Мои достижения
 - На первом месте в своем классе в Kodland
 - Изучаю Python в [Kodland](https://www.kodland.org)
-- Сделал почти 10 проектов
+- Сделал 10 проектов
 - добрался до уровня "Любитель 3"
 - Набрал более 1600 очков
 - в Discord Kodlend у меня 6 уровень
@@ -40,7 +40,7 @@
 ## ⏳ Время изучения Python
 
 Изучаю Python:
-![42%](https://progress-bar.dev/42/?title=LVL1)
+![50%](https://progress-bar.dev/50/?title=LVL1)
 ![0%](https://progress-bar.dev/0/?title=LVL2)
 ![0%](https://progress-bar.dev/0/?title=LVL3)
 
