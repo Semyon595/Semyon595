@@ -31,12 +31,12 @@
 | **11.) PRObber Ботик 303**<br>error404 | [[ТЫК](https://hub.kodland.org/project/304692)] |
 
 ## 🏆 Мои достижения
-- На первом месте в своем классе в Kodland
+- На втором месте в своем классе в Kodland
 - Изучаю Python в [Kodland](https://www.kodland.org)
 - Сделал 11 проектов
 - добрался до уровня "Любитель 4"
 - Набрал более 2000 очков
-- в Discord Kodlend у меня 6 уровень
+- в Discord Kodlend у меня 7 уровень
 
 ## ⏳ Время изучения Python
 
