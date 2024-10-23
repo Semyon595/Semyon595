@@ -18,7 +18,7 @@
 |--------|--------|--------|
 |Сайт|Semyon_5|[[НАЖМИ](https://sites.google.com/view/semyon-5)]|
 |Сайт|Semyon_5(Чат)|[[НАЖМИ](https://sites.google.com/view/semyon5-chat)]|
-|Сайт|Semyon_5(Программирование)|[[НАЖМИ]()]|
+|Сайт|Semyon_5(Программирование)|[[НАЖМИ](https://sites.google.com/view/my-programming-639)]|
 # Спасибо за посещение моего профиля! 
 
 
