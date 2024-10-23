@@ -38,11 +38,4 @@
 - Набрал более 2000 очков
 - в Discord Kodlend у меня 7 уровень
 
-## ⏳ Время изучения Python
-
-Изучаю Python:
-![50%](https://progress-bar.dev/50/?title=LVL1)
-![0%](https://progress-bar.dev/0/?title=LVL2)
-![0%](https://progress-bar.dev/0/?title=LVL3)
-
 # Спасибо за посещение моего профиля! 
